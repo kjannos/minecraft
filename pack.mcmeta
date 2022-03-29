@@ -1,0 +1,30 @@
+{
+  "pack": {
+    "description": [
+      {
+        "text": "Viossakjannos. ",
+        "color": "aqua"
+      },
+      {
+        "text": "Grunn ",
+        "color": "aqua"
+      },
+      { "text": "salp",     "underlined": true, "color": "dark_red"  },
+      { "text": ", " },
+      { "text": "uakci",    "underlined": true, "color": "dark_purple"  },
+      { "text": ", " },
+      { "text": "Nikomiko", "underlined": true, "color": "dark_green"  },
+      { "text": ", " },
+      { "text": "paneku",    "underlined": true, "color": "brown"  },
+      { "text": " au andr.",                      "color": "gray" }
+    ],
+    "pack_format": 6
+  },
+  "language": {
+    "vp": {
+      "name": "Viossa",
+      "region": "Vilant",
+      "bidirectional": false
+    }
+  }
+}
